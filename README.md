@@ -33,10 +33,12 @@ This repository contains a demonstration of Recognito's ID document recognition 
 RECOGNITO ID Document Recognition SDK is covering 14,000+ identity documents from 250+ countries and territories for fast, secure onboarding.
 
 ## <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
-- **Document Detection and Cropping:** Supports automatic detection and perspective transformation.
-- **Text Recognition (OCR):** Extracts text fields like name, ID number, date of birth, etc.
-- **MRZ Extraction:** Automated MRZ detection and decoding for passports and visa documents.
-- **Portrait Detection and Cropping:** Detects and extracts ID holder's photo for further processing, such as face matching or liveness detection.
+| No.      | Feature | Description |
+  |:------------------:|------------------|------------------|
+  | 1        | **Document Detection and Cropping:**   | Supports automatic detection and perspective transformation. |
+  | 2        | **Text Recognition (OCR):**    | Extracts text fields like name, ID number, date of birth, etc. |
+  | 3        | **MRZ Extraction:**   | Automated MRZ detection and decoding for passports and visa documents. |
+  | 4        | **Portrait Detection and Cropping:**   | Detects and extracts ID holder's photo for further processing, such as face matching or liveness detection. |
 
 ### - Additional Features
 - **On-premise:** Operate entirely within your infrastructure, ensuring data privacy and security.
