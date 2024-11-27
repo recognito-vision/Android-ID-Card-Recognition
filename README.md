@@ -12,7 +12,7 @@
 <br/>
 
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="face recognition, liveness detection android apk download" width="25">  Download APK
-<a href="https://drive.google.com/file/d/1K1kh8tzkxic-ufDiFmr6VOZCVygN8QpT/view?usp=drive_link" style="display: flex; align-items: center;">
+<a href="https://drive.google.com/file/d/10847fZyLqhIb5FjILye2EDggNPceCyq0/view?usp=drive_link" style="display: flex; align-items: center;">
     <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", alt="id document recognition android demo download" width=10%/>
 </a><br/>
 
