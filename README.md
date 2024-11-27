@@ -56,7 +56,7 @@ To use the Recognito SDK in your Android project, follow these steps:
 #### 3. Integrate SDK
 - Please refer to the following document:
 
-   [**Integration Guide**](https://docs.recognito.vision/~/changes/Q0SClq8do0AG59iw0v5m/id-document-recognition-sdk/integration-guide/android/sample-application)
+   [**Integration Guide**](https://docs.recognito.vision/id-document-recognition-sdk/integration-guide/android/sample-application)
 
 ## <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Support
 For any questions, issues, or feature requests, please contact our support team.
