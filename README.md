@@ -28,9 +28,6 @@
 This repository contains a demonstration of Recognito's ID document recognition SDK for Android. 
 RECOGNITO ID Document Recognition SDK is covering 14,000+ identity documents from 250+ countries and territories for fast, secure onboarding.
 
-## <img src="https://github.com/recognito-vision/.github/assets/153883841/dc7c1c3f-8269-475c-a689-cb57be36a920" alt="home" width="25">   RECOGNITO Product Documentation
-&emsp;&emsp;<a href="https://docs.recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/05/book.png" style="width: 64px; margin-right: 5px;"/></a>
-
 ## <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
 - **Document Detection and Cropping:** Supports automatic detection and perspective transformation.
 - **Text Recognition (OCR):** Extracts text fields like name, ID number, date of birth, etc.
@@ -48,12 +45,18 @@ To use the Recognito SDK in your Android project, follow these steps:
 
 #### 2. Application License (One-Time License)
 - For trial license, share your application ID.
+  
   <div style="display: flex; align-items: center;">
     <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://wa.me/+14158003112"><img src="https://img.shields.io/badge/whatsapp-+14158003112-blue.svg?logo=whatsapp " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://t.me/recognito_vision"><img src="https://img.shields.io/badge/telegram-@recognito__vision-blue.svg?logo=telegram " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
   </div>
+
+#### 3. Integrate SDK
+- Please refer to the following document:
+
+   [**Integration Guide**](https://docs.recognito.vision/~/changes/Q0SClq8do0AG59iw0v5m/id-document-recognition-sdk/integration-guide/android/sample-application)
 
 ## <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Support
 For any questions, issues, or feature requests, please contact our support team.
