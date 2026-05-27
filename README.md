@@ -13,7 +13,7 @@
 <br/>
 
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="face recognition, liveness detection android apk download" width="25">  Download APK
-<a href="https://www.dropbox.com/scl/fi/aq7py8gheq0xffb5vhj1e/Recognito_IDOCR_Demo.apk?rlkey=71l033c5rrps70q19dv9ljadi&st=crvvvrjr&dl=0" style="display: flex; align-items: center;">
+<a href="https://www.dropbox.com/scl/fi/1418y3ehqq21ql7xz3x97/Recognito_IDOCR_Demo.apk?rlkey=k1jaw6l2qzir34odaroy0bnvq&st=nfm8sclg&dl=0" style="display: flex; align-items: center;">
     <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", alt="id document recognition android demo download" width=10%/>
 </a><br/>
 
@@ -48,7 +48,7 @@ RECOGNITO ID Document Recognition SDK is covering 14,000+ identity documents fro
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/05f9ac6c-1224-46a9-8c74-04b8f8cfe5ab" alt="face recognition, liveness detection android SDK API" width="25">  Run Demo
 To use the Recognito SDK in your Android project, follow these steps:
 #### 1. Download Demo Source 
-- [**IDCardRecognition-Android.zip**](https://www.dropbox.com/scl/fi/gqiszwckrxuq9q4zmtd0l/IDCardRecognition-Android.zip?rlkey=bq37bkr9rybnw080nvet0pkjm&st=ub1krn5w&dl=0)
+- [**IDCardRecognition-Android.zip**](https://www.dropbox.com/scl/fi/ivw5hokhmdqtr4k1ztr2r/IDCardRecognition-Android.zip?rlkey=bgjhifwk0qi92fygb5z59m9sz&st=kg9r7kqw&dl=0)
 
 #### 2. Application License (One-Time License)
 - For trial license, share your application ID.
